@@ -1,0 +1,2 @@
+# Admission-portal
+It is a admission registration web portal of a college in Toronto where student will add his details at front end that get saved using mysql database at backend.For monitoring his details,He can go through the search option and can edit if needed.Apart from personal details,there would be options for course selection,fees details .He can select any course and can follow further steps to get enrolled.
